@@ -1,0 +1,117 @@
+html{
+    box-sizing: border-box;
+    font-family: 'Karla';
+    font-size: 16px;
+    font-weight: 400;
+}
+body{
+    padding: 20px;
+    background-color: hsl(204, 43%, 93%);
+}
+h2, h3, p{
+    margin: 0;
+}
+*, *:before, *:after{
+    box-sizing: inherit;
+}
+#card{
+    width: 650px;
+    height: 450px;
+    border: 0px solid red;
+    box-shadow: 2px 3px 7px 0px rgba(0,0,0,0.35);
+    border-radius: 5px;
+    overflow: hidden;
+    margin: auto;
+}
+#top-section{
+    width: 100%;
+    height: 45%;
+    border: 0px solid green;
+    padding: 30px 20px 10px 20px;
+    background-color: white;
+}
+#bottom-section{
+    width: 100%;
+    height: 55%;
+    border: 0px solid blue;
+    color: white;
+}
+#bottom-left-section{
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+    border: 0px solid orange;
+    vertical-align: top;
+    background-color: hsl(179, 64%, 45%);
+    padding: 20px;
+}
+#bottom-left-section p{
+    padding-top: 8px;
+    font-size: 0.9rem;
+}
+#bottom-right-section{
+    display: inline-block;
+    width: 50%;
+    height: 100%;
+    border: 0px solid black;
+    vertical-align: top;
+    background-color: hsl(179, 66%, 52%);
+    padding: 20px;
+}
+#bottom-right-section ul{
+    list-style-type: none;
+    color: hsl(215, 42%, 90%);
+    font-size: 0.9rem;
+    padding: 0;
+}
+#bottom-right-section li{
+    margin: 0.1rem;
+}
+#top-section h2{
+    color: hsl(179, 62%, 43%);
+}
+#top-section h4{
+    color: hsl(71, 73%, 54%);
+    margin-bottom: 10px;
+}
+#top-section p{
+    color: hsl(206, 3%, 55%);
+}
+button{
+    color: white;
+    font-size: 17px;
+    background-color: hsl(71, 73%, 54%);
+    width: 85%;
+    height: 20%;
+    border-radius: 5px;
+    border: 2px solid hsl(71, 73%, 54%);
+    margin-top: 30px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: #A9C420;
+    transform:scale(1.05);
+}
+#price{
+    font-weight: 700;
+    font-size: 1.4rem;
+    display:inline-block;
+}
+#price-intervals{
+    color: hsl(215, 42%, 90%);
+    display:inline-block;
+    font-size: 14px;
+    position: relative;
+    top: -4px;
+}
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+    text-decoration: none;
+}
+.attribution a:hover{
+    color:blueviolet;
+}
