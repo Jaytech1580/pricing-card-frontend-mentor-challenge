@@ -33,6 +33,7 @@ images/
 
 - Semantic HTML5 markup
 - CSS custom properties
+- [React](https://reactjs.org/) - JS library
 - Deskstop-first workflow
 
 ### What I learned
@@ -53,3 +54,8 @@ Like I said earlier i will practice more. to improve my css skills.
 - Frontend Mentor - [@Jaytech1580](https://www.frontendmentor.io/profile/Jaytech1580)
 - Twitter - [@JayTech1580](https://www.twitter.com/jaytech1580)
 - CodePen - [@JayTech1580](https://codepen.io/your-work/)
+
+
+## Acknowledgments
+
+I am grateful to [freecodecam.org](https://freecodecam.org) for the free class and courses that has made me develop this much and also to [frontendmentor](https://frontendmentor.io) for creating such interesting projects and challenges to build our skills. thank you.
