@@ -115,3 +115,19 @@ button:hover{
 .attribution a:hover{
     color:blueviolet;
 }
+@media (max-width:650px) {
+    #bottom-left-section, #bottom-right-section, #card{
+        width: 100%;
+        height: auto;
+    }
+    button{
+        margin: 30px 25px;
+        padding: 10px;
+    }
+    p{
+        line-height: 1.7;
+    }
+    #top-section{
+        padding-bottom: 40px;
+    }
+}
