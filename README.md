@@ -20,7 +20,8 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Screenshot
 
-images/
+![](./images/Screenshot 2022-12-01 at 06-22-58 Frontend Mentor Single Price Grid Component.png)
+![](/Screenshot 2022-12-01 at 06-23-25 Frontend Mentor Single Price Grid Component.png)
 
 ### Links
 
